@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/simple">
+        <ListPreference
+            android:key="speed"
+            android:title="@string/ball_speed"
+            android:summary="@string/speed_desc"
+            android:dialogTitle="@string/speed_dialog_title"
+            android:entries="@array/speed_mode"
+            android:entryValues="@array/speed" />
+    </PreferenceCategory>
+    
+</PreferenceScreen>

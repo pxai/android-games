@@ -1,0 +1,9 @@
+Arkapong is just a Pong-like game with 
+some elements from the Arkanoid game.
+Try to hit the ball with your paddle and 
+touch random blocks to take advantages... 
+or not.
+Players must earn 10 points to win. 
+---
+A simple game by Pello Altadill
+http://pello.info

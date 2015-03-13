@@ -1,0 +1,110 @@
+
+images1.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+splash
+  rotate: false
+  xy: 2, 2
+  size: 480, 360
+  orig: 480, 360
+  offset: 0, 0
+  index: -1
+background
+  rotate: false
+  xy: 2, 364
+  size: 480, 360
+  orig: 480, 360
+  offset: 0, 0
+  index: -1
+kitty
+  rotate: false
+  xy: 2, 726
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+right
+  rotate: false
+  xy: 2, 792
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+lft
+  rotate: false
+  xy: 2, 826
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+strawberry
+  rotate: false
+  xy: 484, 2
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+peach
+  rotate: false
+  xy: 484, 20
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+lollipop
+  rotate: false
+  xy: 484, 38
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+icecream
+  rotate: false
+  xy: 484, 56
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+grapes
+  rotate: false
+  xy: 484, 74
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+cherries
+  rotate: false
+  xy: 484, 92
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bee2
+  rotate: false
+  xy: 484, 110
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bee1
+  rotate: false
+  xy: 484, 128
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+banana
+  rotate: false
+  xy: 484, 146
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+apple
+  rotate: false
+  xy: 484, 164
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1

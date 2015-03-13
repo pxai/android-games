@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+	
+    <info.pello.games.arkapong.TTFTextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="40sp"
+        android:gravity="center_horizontal"
+        android:text="@string/app_name" />
+<!--
+        android:divider="@drawable/divider"
+        android:listSelector="@drawable/selector" 
+ -->   
+     <ListView
+        android:layout_height="wrap_content"
+        android:id="@+id/ListView_Menu"
+        android:layout_width="fill_parent"
+        android:divider="@drawable/separator"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/RelativeLayout01"></ListView>
+    <ImageView
+        android:id="@+id/ImageView_MenuBottom"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:adjustViewBounds="true"
+        android:scaleType="centerInside"></ImageView>
+   
+</LinearLayout>
+<!-- 
+        android:src="@drawable/logo"
+ -->

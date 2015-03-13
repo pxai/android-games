@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="road.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2826"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2848"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2870"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective2892"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3697"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3733"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3764"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3792"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3824"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3824-6"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3870"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3897"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3897-9"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3935"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3977"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="240.51402"
+     inkscape:cy="446.0843"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="791"
+     inkscape:window-height="510"
+     inkscape:window-x="6"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2914"
+       style="stroke:none"
+       transform="translate(70.280284,-1.583421)"
+       inkscape:export-filename="/root/workspace-erps/HitTheRoad-android/assets/data/road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0.33400032"
+         rx="0.24380165"
+         y="576.07648"
+         x="185.71428"
+         height="32"
+         width="32"
+         id="rect2816"
+         style="fill:#008000;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g2911"
+       style="stroke:none"
+       transform="translate(68.123942,-1.7446148)"
+       inkscape:export-filename="/root/workspace-erps/HitTheRoad-android/assets/data/road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0.33400032"
+         rx="0.24380165"
+         y="576.23767"
+         x="219.87062"
+         height="32"
+         width="32"
+         id="rect2816-4"
+         style="fill:#333333;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g3806"
+       transform="translate(-31.231404,30.760451)"
+       style="stroke:none"
+       inkscape:export-filename="/root/workspace-erps/HitTheRoad-android/assets/data/road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0.33400032"
+         rx="0.24380165"
+         y="575.7326"
+         x="255.22597"
+         height="32"
+         width="32"
+         id="rect2816-4-7"
+         style="fill:#333333;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0.17057642"
+         rx="0.24380165"
+         y="575.7326"
+         x="255.22597"
+         height="16.342636"
+         width="32"
+         id="rect2816-3"
+         style="fill:#008000;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0.059869915"
+         rx="0.24380165"
+         y="595.4306"
+         x="255.22597"
+         height="5.7360344"
+         width="32"
+         id="rect2816-3-3"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect2816-3-3-6"
+       width="32"
+       height="5.7360344"
+       x="357.21429"
+       y="582.48877"
+       rx="0.24380165"
+       ry="0.059869915" />
+    <g
+       transform="matrix(1,0,0,-1,-63.231404,1182.2257)"
+       id="g2906-7"
+       inkscape:export-filename="/root/workspace-erps/HitTheRoad-android/assets/data/road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         ry="0.33400032"
+         rx="0.24380165"
+         y="575.7326"
+         x="255.22597"
+         height="32"
+         width="32"
+         id="rect2816-4-7-8"
+         style="fill:#333333;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0.17057642"
+         rx="0.24380165"
+         y="575.7326"
+         x="255.22597"
+         height="16.342636"
+         width="32"
+         id="rect2816-3-2"
+         style="fill:#008000;fill-opacity:1;stroke:none" />
+      <rect
+         ry="0.059869915"
+         rx="0.24380165"
+         y="595.4306"
+         x="255.22597"
+         height="5.7360344"
+         width="32"
+         id="rect2816-3-3-5"
+         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    </g>
+    <g
+       id="g4036"
+       transform="translate(32,-32.649763)"
+       inkscape:export-filename="/root/workspace-erps/HitTheRoad-android/assets/data/road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         transform="translate(6.5659912,-5.6479352)"
+         id="g3811">
+        <g
+           transform="translate(-34.442049,36.553083)"
+           id="g2911-0"
+           style="stroke:none">
+          <rect
+             ry="0.33400032"
+             rx="0.24380165"
+             y="576.23767"
+             x="219.87062"
+             height="32"
+             width="32"
+             id="rect2816-4-2"
+             style="fill:#333333;fill-opacity:1;stroke:none" />
+        </g>
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:none"
+           id="rect2816-3-3-0"
+           width="22.357143"
+           height="5.7360344"
+           x="190.25"
+           y="625.92273"
+           rx="0.17033464"
+           ry="0.059869915" />
+      </g>
+    </g>
+    <g
+       id="g3920"
+       transform="translate(35.208848,-5.583412)"
+       inkscape:export-filename="/root/workspace-erps/HitTheRoad-android/assets/data/road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke:none"
+         id="g2914-7"
+         transform="translate(35.071436,35.999991)">
+        <rect
+           style="fill:#008000;fill-opacity:1;stroke:none"
+           id="rect2816-5"
+           width="32"
+           height="32"
+           x="185.71428"
+           y="576.07648"
+           rx="0.24380165"
+           ry="0.33400032" />
+      </g>
+      <path
+         transform="translate(-0.71428572,-2.8571429)"
+         d="m 241.78571,628.61218 c 0,4.24076 -3.19797,7.67857 -7.14286,7.67857 -3.94489,0 -7.14285,-3.43781 -7.14285,-7.67857 0,-4.24076 3.19796,-7.67857 7.14285,-7.67857 3.94489,0 7.14286,3.43781 7.14286,7.67857 z"
+         sodipodi:ry="7.6785712"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="628.61218"
+         sodipodi:cx="234.64285"
+         id="path3887"
+         style="fill:#808000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         d="m 241.78571,628.61218 c 0,4.24076 -3.19797,7.67857 -7.14286,7.67857 -3.94489,0 -7.14285,-3.43781 -7.14285,-7.67857 0,-4.24076 3.19796,-7.67857 7.14285,-7.67857 3.94489,0 7.14286,3.43781 7.14286,7.67857 z"
+         sodipodi:ry="7.6785712"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="628.61218"
+         sodipodi:cx="234.64285"
+         id="path3887-7"
+         style="fill:#808000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(5.0000048,-0.17857216)" />
+      <path
+         d="m 241.78571,628.61218 c 0,4.24076 -3.19797,7.67857 -7.14286,7.67857 -3.94489,0 -7.14285,-3.43781 -7.14285,-7.67857 0,-4.24076 3.19796,-7.67857 7.14285,-7.67857 3.94489,0 7.14286,3.43781 7.14286,7.67857 z"
+         sodipodi:ry="7.6785712"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="628.61218"
+         sodipodi:cx="234.64285"
+         id="path3887-3"
+         style="fill:#808000;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="translate(-0.35713815,1.2499993)" />
+    </g>
+    <g
+       id="g4028"
+       transform="translate(30.780277,-5.583412)"
+       inkscape:export-filename="/root/workspace-erps/HitTheRoad-android/assets/data/road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="fill:#008080;stroke:none"
+         id="g2914-7-8"
+         transform="translate(71.500007,35.999991)">
+        <rect
+           style="fill:#008080;fill-opacity:1;stroke:none"
+           id="rect2816-5-5"
+           width="32"
+           height="32"
+           x="185.71428"
+           y="576.07648"
+           rx="0.24380165"
+           ry="0.33400032" />
+      </g>
+    </g>
+    <g
+       id="g4020"
+       transform="translate(-100.21973,-6.297697)"
+       inkscape:export-filename="/root/workspace-erps/HitTheRoad-android/assets/data/road.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <g
+         style="stroke:none"
+         id="g2914-7-1"
+         transform="translate(106.50001,36.714276)">
+        <rect
+           style="fill:#008000;fill-opacity:1;stroke:none"
+           id="rect2816-5-3"
+           width="32"
+           height="32"
+           x="185.71428"
+           y="576.07648"
+           rx="0.24380165"
+           ry="0.33400032" />
+      </g>
+      <path
+         transform="matrix(0.42971325,0.74428517,-0.74428517,0.42971325,675.71579,177.71156)"
+         d="m 241.78571,628.61218 c 0,4.24076 -3.19797,7.67857 -7.14286,7.67857 -3.94489,0 -7.14285,-3.43781 -7.14285,-7.67857 0,-4.24076 3.19796,-7.67857 7.14285,-7.67857 3.94489,0 7.14286,3.43781 7.14286,7.67857 z"
+         sodipodi:ry="7.6785712"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="628.61218"
+         sodipodi:cx="234.64285"
+         id="path3887-8"
+         style="fill:#00ff00;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         id="rect4011"
+         d="m 305.994,632.13873 3.95248,0 c 0.0944,0 0.17034,0.0267 0.17034,0.0599 l 0,7.45641 c 0,0.0332 -0.076,0.0599 -0.17034,0.0599 l -3.95248,0 c -0.0944,0 -0.17033,-0.0267 -0.17033,-0.0599 l 0,-7.45641 c 0,-0.0332 0.076,-0.0599 0.17033,-0.0599 z"
+         style="fill:#808000;fill-opacity:1;stroke:none" />
+      <path
+         d="m 241.78571,628.61218 c 0,4.24076 -3.19797,7.67857 -7.14286,7.67857 -3.94489,0 -7.14285,-3.43781 -7.14285,-7.67857 0,-4.24076 3.19796,-7.67857 7.14285,-7.67857 3.94489,0 7.14286,3.43781 7.14286,7.67857 z"
+         sodipodi:ry="7.6785712"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="628.61218"
+         sodipodi:cx="234.64285"
+         id="path3887-7-0"
+         style="fill:#00ff00;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.42971325,0.74428517,-0.74428517,0.42971325,676.17769,183.11563)" />
+      <path
+         d="m 241.78571,628.61218 c 0,4.24076 -3.19797,7.67857 -7.14286,7.67857 -3.94489,0 -7.14285,-3.43781 -7.14285,-7.67857 0,-4.24076 3.19796,-7.67857 7.14285,-7.67857 3.94489,0 7.14286,3.43781 7.14286,7.67857 z"
+         sodipodi:ry="7.6785712"
+         sodipodi:rx="7.1428571"
+         sodipodi:cy="628.61218"
+         sodipodi:cx="234.64285"
+         id="path3887-3-9"
+         style="fill:#00ff00;fill-opacity:1;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.42971325,0.74428517,-0.74428517,0.42971325,672.81238,179.74226)" />
+    </g>
+  </g>
+</svg>

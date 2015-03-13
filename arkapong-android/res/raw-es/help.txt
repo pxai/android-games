@@ -1,0 +1,11 @@
+Arkapong no es más que un Pong con
+algunos elementos del Arkanoid.
+Debes procurar devolver la pelota golpeándola
+con tu pala y si tocas los bloques que aparecen
+aleatoriamente en pantalla puedes obtener ventajas...
+o no.
+Los jugadores deben conseguir 10 puntos para ganar
+la partida.
+---
+Juego desarrollado por Pello Altadill
+http://pello.info
